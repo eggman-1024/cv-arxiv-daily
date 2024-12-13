@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3985,6 +3985,66 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## Object Detection
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey et.al.|[2412.08582](http://arxiv.org/abs/2412.08582)|**[link](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**|
+|**2024-12-11**|**PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421](http://arxiv.org/abs/2412.08421)|null|
+|**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
+|**2024-12-11**|**Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation**|Jiaming Lv et.al.|[2412.08139](http://arxiv.org/abs/2412.08139)|null|
+|**2024-12-11**|**DTAA: A Detect, Track and Avoid Architecture for navigation in spaces with Multiple Velocity Objects**|Samuel Nordström et.al.|[2412.08121](http://arxiv.org/abs/2412.08121)|null|
+|**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
+|**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
+|**2024-12-10**|**Low-Latency Scalable Streaming for Event-Based Vision**|Andrew Hamara et.al.|[2412.07889](http://arxiv.org/abs/2412.07889)|null|
+|**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
+|**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|**[link](https://github.com/simonklind/nf-gradients)**|
+
+## Tracking
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Analysis Note: Directed flow $v_1$ of protons in the Xe+Cs(I) collisions at 3.8 AGeV (BM@N run8)**|Mikhail Mamamev et.al.|[2412.08570](http://arxiv.org/abs/2412.08570)|null|
+|**2024-12-11**|**Spend More to Save More (SM2): An Energy-Aware Implementation of Successive Halving for Sustainable Hyperparameter Optimization**|Daniel Geissler et.al.|[2412.08526](http://arxiv.org/abs/2412.08526)|null|
+|**2024-12-11**|**Dynamic Disentangled Fusion Network for RGBT Tracking**|Chenglong Li et.al.|[2412.08441](http://arxiv.org/abs/2412.08441)|null|
+|**2024-12-11**|**ConDSeg: A General Medical Image Segmentation Framework via Contrast-Driven Feature Enhancement**|Mengqi Lei et.al.|[2412.08345](http://arxiv.org/abs/2412.08345)|**[link](https://github.com/mengqi-lei/condseg)**|
+|**2024-12-11**|**SLGaussian: Fast Language Gaussian Splatting in Sparse Views**|Kangjie Chen et.al.|[2412.08331](http://arxiv.org/abs/2412.08331)|null|
+|**2024-12-11**|**TGOSPA Metric Parameters Selection and Evaluation for Visual Multi-object Tracking**|Jan Krejčí et.al.|[2412.08321](http://arxiv.org/abs/2412.08321)|null|
+|**2024-12-11**|**Post-Hoc MOTS: Exploring the Capabilities of Time-Symmetric Multi-Object Tracking**|Gergely Szabó et.al.|[2412.08313](http://arxiv.org/abs/2412.08313)|null|
+|**2024-12-11**|**Enhancing Cybersecurity in IoT Networks: A Deep Learning Approach to Anomaly Detection**|Yining Pang et.al.|[2412.08301](http://arxiv.org/abs/2412.08301)|null|
+|**2024-12-11**|**PADÉ FILTERING, Principles and Use: an Introductory Report**|Jean-Daniel Fournier et.al.|[2412.08254](http://arxiv.org/abs/2412.08254)|null|
+|**2024-12-11**|**MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues**|Junjie Li et.al.|[2412.08247](http://arxiv.org/abs/2412.08247)|null|
+
+## Point Cloud
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**SegFace: Face Segmentation of Long-Tail Classes**|Kartik Narayan et.al.|[2412.08647](http://arxiv.org/abs/2412.08647)|**[link](https://github.com/kartik-3004/segface)**|
+|**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
+|**2024-12-11**|**EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation**|Hongwei Niu et.al.|[2412.08628](http://arxiv.org/abs/2412.08628)|null|
+|**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
+|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey et.al.|[2412.08582](http://arxiv.org/abs/2412.08582)|**[link](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**|
+|**2024-12-11**|**Sparse Signature Coefficient Recovery via Kernels**|Daniil Shmelev et.al.|[2412.08579](http://arxiv.org/abs/2412.08579)|**[link](https://github.com/daniil-shmelev/sigcoeff)**|
+|**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573](http://arxiv.org/abs/2412.08573)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
+|**2024-12-11**|**Analysis Note: Directed flow $v_1$ of protons in the Xe+Cs(I) collisions at 3.8 AGeV (BM@N run8)**|Mikhail Mamamev et.al.|[2412.08570](http://arxiv.org/abs/2412.08570)|null|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
+
+## Lidar
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey et.al.|[2412.08582](http://arxiv.org/abs/2412.08582)|**[link](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
+|**2024-12-11**|**PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421](http://arxiv.org/abs/2412.08421)|null|
+|**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
+|**2024-12-11**|**Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction**|Bohan Li et.al.|[2412.08243](http://arxiv.org/abs/2412.08243)|null|
+|**2024-12-11**|**Semantic Scene Completion Based 3D Traversability Estimation for Off-Road Terrains**|Zitong Chen et.al.|[2412.08195](http://arxiv.org/abs/2412.08195)|null|
+|**2024-12-11**|**Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation**|Jiaming Lv et.al.|[2412.08139](http://arxiv.org/abs/2412.08139)|null|
+|**2024-12-11**|**DTAA: A Detect, Track and Avoid Architecture for navigation in spaces with Multiple Velocity Objects**|Samuel Nordström et.al.|[2412.08121](http://arxiv.org/abs/2412.08121)|null|
+|**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
+|**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
