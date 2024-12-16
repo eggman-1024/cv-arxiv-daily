@@ -2,7 +2,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+**作者教程：**
+https://vincentqin.tech/posts/cv-arxiv-daily/
 ## Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
