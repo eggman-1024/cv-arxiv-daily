@@ -22,12 +22,12 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Object Detection": 
-        filters: ["Object Detection", "3D Object Detection"]
+    "Lidar Object Detection": 
+        filters: ["Lidar", \"3D Object Detection\"]
     "Tracking":
         filters: ["Tracking"]
     "Point Cloud":
         filters: ["Point Cloud","Object Detection",
                   "Tracking", "Transformer"]
-    "Lidar":
-        filters: ["Lidar", "Object Detection"]
+    "Muliti-frame Detection":
+        filters: ["Lidar", \"3D Object Detection\", "Muliti-frame", \"Muliti frame\", ]
