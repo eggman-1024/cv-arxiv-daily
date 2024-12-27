@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.25
+## Updated on 2024.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -756,7 +756,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## SFM
 
@@ -1066,7 +1066,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2053,7 +2053,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2321,7 +2321,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2603,7 +2603,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## NeRF
 
@@ -4010,7 +4010,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Object Detection
 
@@ -4033,12 +4033,22 @@
 |**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
 |**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|**[link](https://github.com/simonklind/nf-gradients)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Adapting Priority Riemann Solver for GSOM on road networks**|Caterina Balzotti et.al.|[2412.18560](http://arxiv.org/abs/2412.18560)|null|
+|**2024-12-24**|**A CNN-based particle tracking method for large-scale fluid simulations with Lagrangian-Eulerian approaches**|Xuan Luo et.al.|[2412.18379](http://arxiv.org/abs/2412.18379)|null|
+|**2024-12-24**|**Non-Minimum-Phase Resonant Controller for Active Damping Control: Application to Piezo-Actuated Nanopositioning System**|Aditya M. Natu et.al.|[2412.18374](http://arxiv.org/abs/2412.18374)|null|
+|**2024-12-24**|**SCKF-LSTM Based Trajectory Tracking for Electricity-Gas Integrated Energy System**|Liang Chen et.al.|[2412.18357](http://arxiv.org/abs/2412.18357)|null|
+|**2024-12-24**|**Computer Vision-Driven Gesture Recognition: Toward Natural and Intuitive Human-Computer**|Fenghua Shao et.al.|[2412.18321](http://arxiv.org/abs/2412.18321)|null|
+|**2024-12-24**|**SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos**|Zhen Zhang et.al.|[2412.18214](http://arxiv.org/abs/2412.18214)|**[link](https://github.com/tanedam/sdm-car)**|
+|**2024-12-24**|**Comparison of Relative Magnetic Helicity Flux Calculation Results Based on the Line-of-Sight Magnetograms of ASO-S/FMG and SDO/HMI**|Shangbin Yang et.al.|[2412.18203](http://arxiv.org/abs/2412.18203)|null|
+|**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
+|**2024-12-24**|**Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media**|Zhen Sun et.al.|[2412.18148](http://arxiv.org/abs/2412.18148)|null|
+|**2024-12-24**|**A Review of 3D Particle Tracking and Flow Diagnostics Using Digital Holography**|Shyam Kumar M et.al.|[2412.18094](http://arxiv.org/abs/2412.18094)|null|
 |**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen et.al.|[2412.17807](http://arxiv.org/abs/2412.17807)|**[link](https://github.com/chen-si-jia/crmot)**|
 |**2024-12-23**|**Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking**|Yun Liu et.al.|[2412.17730](http://arxiv.org/abs/2412.17730)|null|
 |**2024-12-23**|**Tracking the Feature Dynamics in LLM Training: A Mechanistic Study**|Yang Xu et.al.|[2412.17626](http://arxiv.org/abs/2412.17626)|null|
@@ -4100,12 +4110,22 @@
 |**2024-12-11**|**PADÉ FILTERING, Principles and Use: an Introductory Report**|Jean-Daniel Fournier et.al.|[2412.08254](http://arxiv.org/abs/2412.08254)|null|
 |**2024-12-11**|**MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues**|Junjie Li et.al.|[2412.08247](http://arxiv.org/abs/2412.08247)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Point Cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
+|**2024-12-24**|**Modularity of Some Nahm Sums as Vector-valued Functions**|Liuquan Wang et.al.|[2412.18590](http://arxiv.org/abs/2412.18590)|null|
+|**2024-12-24**|**Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**|Gang Huang et.al.|[2412.18563](http://arxiv.org/abs/2412.18563)|**[link](https://github.com/watermeloncq/drl-dynamic-optimization-portfolio-SB3py37)**|
+|**2024-12-24**|**Adapting Priority Riemann Solver for GSOM on road networks**|Caterina Balzotti et.al.|[2412.18560](http://arxiv.org/abs/2412.18560)|null|
+|**2024-12-24**|**Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**|Mingyuan Meng et.al.|[2412.18545](http://arxiv.org/abs/2412.18545)|null|
+|**2024-12-24**|**Flowery Horizons & Bulk Observers: $sl^{(q)}(2,\mathbb{R})$ Drive in $2d$ Holographic CFT**|Jayashish Das et.al.|[2412.18536](http://arxiv.org/abs/2412.18536)|null|
+|**2024-12-24**|**Systematic Constructions of Interfaces and Anomalous Boundaries for Fermionic Symmetry-Protected Topological Phases**|Kevin Loo et.al.|[2412.18528](http://arxiv.org/abs/2412.18528)|null|
+|**2024-12-24**|**The Key of Understanding Vision Tasks: Explanatory Instructions**|Yang Shen et.al.|[2412.18525](http://arxiv.org/abs/2412.18525)|**[link](https://github.com/SEU-VIPGroup/Understanding_Vision_Tasks)**|
 |**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810](http://arxiv.org/abs/2412.17810)|null|
 |**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen et.al.|[2412.17807](http://arxiv.org/abs/2412.17807)|**[link](https://github.com/chen-si-jia/crmot)**|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
@@ -4167,7 +4187,7 @@
 |**2024-12-11**|**Analysis Note: Directed flow $v_1$ of protons in the Xe+Cs(I) collisions at 3.8 AGeV (BM@N run8)**|Mikhail Mamamev et.al.|[2412.08570](http://arxiv.org/abs/2412.08570)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Lidar
 
@@ -4193,12 +4213,16 @@
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
 |**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Lidar Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Clutter Resilient Occlusion Avoidance for Tightly-Coupled Motion-Assisted Detection**|Zhixuan Xie et.al.|[2412.18453](http://arxiv.org/abs/2412.18453)|null|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
+|**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
+|**2024-12-24**|**DepthLab: From Partial to Complete**|Zhiheng Liu et.al.|[2412.18153](http://arxiv.org/abs/2412.18153)|null|
 |**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
@@ -4240,12 +4264,16 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## Muliti-frame Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Clutter Resilient Occlusion Avoidance for Tightly-Coupled Motion-Assisted Detection**|Zhixuan Xie et.al.|[2412.18453](http://arxiv.org/abs/2412.18453)|null|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
+|**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
+|**2024-12-24**|**DepthLab: From Partial to Complete**|Zhiheng Liu et.al.|[2412.18153](http://arxiv.org/abs/2412.18153)|null|
 |**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
@@ -4287,7 +4315,7 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
