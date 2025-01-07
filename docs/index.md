@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
+|**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909](http://arxiv.org/abs/2501.01909)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Extranatural transformations, adjunctions of two variables and conjugation**|Simon Willerton et.al.|[2501.01881](http://arxiv.org/abs/2501.01881)|null|
+|**2025-01-03**|**Digital Twin-based SIM Communication and Flight Control for Advanced Air Mobility**|Kai Xiong et.al.|[2501.01837](http://arxiv.org/abs/2501.01837)|null|
+|**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
+|**2025-01-03**|**780 nm Compact Optical Clock Down-Conversion for Microwave Frequencies with $10^{-14}$ instability**|Zhendong Chen et.al.|[2501.01826](http://arxiv.org/abs/2501.01826)|null|
+|**2025-01-03**|**Distributed Framework Construction for Affine Formation Control**|Huiming Li et.al.|[2501.01817](http://arxiv.org/abs/2501.01817)|null|
+|**2025-01-03**|**Eliciting Understandable Architectonic Gestures for Robotic Furniture through Co-Design Improvisation**|Alex Binh Vinh Duc Nguyen et.al.|[2501.01813](http://arxiv.org/abs/2501.01813)|null|
+|**2025-01-03**|**Universal Online Temporal Calibration for Optimization-based Visual-Inertial Navigation Systems**|Yunfei Fan et.al.|[2501.01788](http://arxiv.org/abs/2501.01788)|null|
 |**2024-12-30**|**Lyapunov-Based Deep Neural Networks for Adaptive Control of Stochastic Nonlinear Systems**|Saiedeh Akbari et.al.|[2412.21095](http://arxiv.org/abs/2412.21095)|null|
 |**2024-12-30**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993](http://arxiv.org/abs/2412.20993)|null|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
@@ -4106,6 +4116,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales et.al.|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
+|**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
+|**2025-01-03**|**Quasi-topological fractons: a 3D dipolar gauge theory**|Erica Bertolini et.al.|[2501.01944](http://arxiv.org/abs/2501.01944)|null|
+|**2025-01-03**|**A Modified Davey-Stewartson System of Nonlinear Dust Acoustic Waves in (3+1)-Dimensions: Lie Symmetries and Exact Solutions**|Seyma Gonul et.al.|[2501.01941](http://arxiv.org/abs/2501.01941)|null|
+|**2025-01-03**|**Compressed sensing for inverse problems II: applications to deconvolution, source recovery, and MRI**|Giovanni S. Alberti et.al.|[2501.01929](http://arxiv.org/abs/2501.01929)|null|
+|**2025-01-03**|**Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**|Po-Wei Tang et.al.|[2501.01924](http://arxiv.org/abs/2501.01924)|null|
+|**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909](http://arxiv.org/abs/2501.01909)|null|
+|**2025-01-03**|**Alleviating Overfitting in Transformation-Interaction-Rational Symbolic Regression with Multi-Objective Optimization**|Fabricio Olivetti de Franca et.al.|[2501.01905](http://arxiv.org/abs/2501.01905)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Extranatural transformations, adjunctions of two variables and conjugation**|Simon Willerton et.al.|[2501.01881](http://arxiv.org/abs/2501.01881)|null|
 |**2024-12-30**|**Rough differential equations for volatility**|Ofelia Bonesini et.al.|[2412.21192](http://arxiv.org/abs/2412.21192)|null|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
 |**2024-12-30**|**Holographic observers for time-band algebras**|Kristan Jensen et.al.|[2412.21185](http://arxiv.org/abs/2412.21185)|null|
@@ -4225,6 +4245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Adverse Weather Conditions Augmentation of LiDAR Scenes with Latent Diffusion Models**|Andrea Matteazzi et.al.|[2501.01761](http://arxiv.org/abs/2501.01761)|null|
+|**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
+|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-30**|**LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**|Fardin Ayar et.al.|[2412.20881](http://arxiv.org/abs/2412.20881)|null|
@@ -4285,6 +4308,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Adverse Weather Conditions Augmentation of LiDAR Scenes with Latent Diffusion Models**|Andrea Matteazzi et.al.|[2501.01761](http://arxiv.org/abs/2501.01761)|null|
+|**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
+|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-30**|**LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**|Fardin Ayar et.al.|[2412.20881](http://arxiv.org/abs/2412.20881)|null|
