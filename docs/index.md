@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Spectral Eigenfunction Decomposition for Kernel Adaptive Filtering**|Kan Li et.al.|[2501.08989](http://arxiv.org/abs/2501.08989)|null|
+|**2025-01-15**|**A Two-Stage Pretraining-Finetuning Framework for Treatment Effect Estimation with Unmeasured Confounding**|Chuan Zhou et.al.|[2501.08888](http://arxiv.org/abs/2501.08888)|null|
+|**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
+|**2025-01-15**|**Cultivating Precision: Comparative Analysis of Sensor-Based Yogurt Fermentation Monitoring Techniques**|Ege Keskin et.al.|[2501.08781](http://arxiv.org/abs/2501.08781)|null|
+|**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655](http://arxiv.org/abs/2501.08655)|null|
+|**2025-01-15**|**Self-Organizing Edge Computing Distribution Framework for Visual SLAM**|Jussi Kalliola et.al.|[2501.08629](http://arxiv.org/abs/2501.08629)|null|
+|**2025-01-15**|**Analysis of quantum mechanics with real-valued Schrödinger equation,single-event quantum-path dynamics, Mauprtuis path in parameter space, and branching paths beyond semiclassics**|Kazuo Takatsuka et.al.|[2501.08606](http://arxiv.org/abs/2501.08606)|null|
+|**2025-01-15**|**AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**|Tyler Stennett et.al.|[2501.08600](http://arxiv.org/abs/2501.08600)|null|
+|**2025-01-15**|**A new perspective on brain stimulation interventions: Optimal stochastic tracking control of brain network dynamics**|Kangli Dong et.al.|[2501.08567](http://arxiv.org/abs/2501.08567)|null|
+|**2025-01-14**|**Progress in Chromatic Calorimetry Concept: Improved Techniques for Energy Resolution and Particle Discrimination**|Devanshi Arora et.al.|[2501.08483](http://arxiv.org/abs/2501.08483)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**Evaluating Agent-based Program Repair at Google**|Pat Rondon et.al.|[2501.07531](http://arxiv.org/abs/2501.07531)|null|
 |**2025-01-13**|**Three-dimensional transport of solids in a protoplanetary disk containing a growing giant planet**|Eric Van Clepper et.al.|[2501.07520](http://arxiv.org/abs/2501.07520)|null|
@@ -4146,6 +4156,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**AI-RAN: Transforming RAN with AI-driven Computing Infrastructure**|Lopamudra Kundu et.al.|[2501.09007](http://arxiv.org/abs/2501.09007)|null|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
+|**2025-01-15**|**Spectral Eigenfunction Decomposition for Kernel Adaptive Filtering**|Kan Li et.al.|[2501.08989](http://arxiv.org/abs/2501.08989)|null|
+|**2025-01-15**|**Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics**|Nicolás Guarín-Zapata et.al.|[2501.08954](http://arxiv.org/abs/2501.08954)|null|
+|**2025-01-15**|**Taint Analysis for Graph APIs Focusing on Broken Access Control**|Leen Lambers et.al.|[2501.08947](http://arxiv.org/abs/2501.08947)|null|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945](http://arxiv.org/abs/2501.08945)|null|
+|**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
+|**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
+|**2025-01-15**|**Modeling Melt Pool Features and Spatter Using Symbolic Regression and Machine Learning**|Olabode T. Ajenifujah et.al.|[2501.08922](http://arxiv.org/abs/2501.08922)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**Digital Twin for Smart Societies: A Catalyst for Inclusive and Accessible Healthcare**|Joshit Mohanty et.al.|[2501.07570](http://arxiv.org/abs/2501.07570)|null|
 |**2025-01-13**|**Construction of approximate invariants for non-integrable Hamiltonian systems**|Yongjun Li et.al.|[2501.07568](http://arxiv.org/abs/2501.07568)|null|
@@ -4305,6 +4325,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**A Multi-modal Intelligent Channel Model for 6G Multi-UAV-to-Multi-Vehicle Communications**|Lu Bai et.al.|[2501.08825](http://arxiv.org/abs/2501.08825)|null|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
+|**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
+|**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[2501.07988](http://arxiv.org/abs/2501.07988)|null|
 |**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-13**|**High-efficiency, high-count-rate 2D superconducting nanowire single-photon detector array**|Fiona Fleming et.al.|[2501.07357](http://arxiv.org/abs/2501.07357)|null|
@@ -4393,6 +4417,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**A Multi-modal Intelligent Channel Model for 6G Multi-UAV-to-Multi-Vehicle Communications**|Lu Bai et.al.|[2501.08825](http://arxiv.org/abs/2501.08825)|null|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
+|**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
+|**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[2501.07988](http://arxiv.org/abs/2501.07988)|null|
 |**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-13**|**High-efficiency, high-count-rate 2D superconducting nanowire single-photon detector array**|Fiona Fleming et.al.|[2501.07357](http://arxiv.org/abs/2501.07357)|null|
