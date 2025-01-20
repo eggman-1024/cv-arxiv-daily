@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2893,7 +2893,7 @@ layout: default
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
 |**2024-06-14**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
-|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
+|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|**[link](https://github.com/wenwhx/nerfdirector)**|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
 |**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
@@ -3052,7 +3052,7 @@ layout: default
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
-|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|**[link](https://github.com/Lxiangyue/GenN2N)**|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
 |**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/abs/2404.02514)|null|
@@ -4059,11 +4059,11 @@ layout: default
 |**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793](http://arxiv.org/abs/2501.03793)|null|
 |**2025-01-07**|**Optimal control of a nonlinear kinetic Fokker-Planck equation**|Tobias Breiten et.al.|[2501.03784](http://arxiv.org/abs/2501.03784)|null|
 |**2025-01-07**|**Design, Construction, and Testing of the APOLLO ATCA Blades for Use at the HL-LHC**|A. Akpinar et.al.|[2501.03702](http://arxiv.org/abs/2501.03702)|null|
-|**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626](http://arxiv.org/abs/2501.03626)|null|
+|**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626](http://arxiv.org/abs/2501.03626)|**[link](https://github.com/security-pride/commitshield)**|
 |**2025-01-07**|**BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination**|Zhongxuan Zhang et.al.|[2501.03616](http://arxiv.org/abs/2501.03616)|null|
 |**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
 |**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909](http://arxiv.org/abs/2501.01909)|null|
-|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|**[link](https://github.com/analysis-tools-dev/dynamic-analysis)**|
 |**2025-01-03**|**Extranatural transformations, adjunctions of two variables and conjugation**|Simon Willerton et.al.|[2501.01881](http://arxiv.org/abs/2501.01881)|null|
 |**2025-01-03**|**Digital Twin-based SIM Communication and Flight Control for Advanced Air Mobility**|Kai Xiong et.al.|[2501.01837](http://arxiv.org/abs/2501.01837)|null|
 |**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
@@ -4224,7 +4224,7 @@ layout: default
 |**2025-01-03**|**Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**|Po-Wei Tang et.al.|[2501.01924](http://arxiv.org/abs/2501.01924)|null|
 |**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909](http://arxiv.org/abs/2501.01909)|null|
 |**2025-01-03**|**Alleviating Overfitting in Transformation-Interaction-Rational Symbolic Regression with Multi-Objective Optimization**|Fabricio Olivetti de Franca et.al.|[2501.01905](http://arxiv.org/abs/2501.01905)|null|
-|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|**[link](https://github.com/analysis-tools-dev/dynamic-analysis)**|
 |**2025-01-03**|**Extranatural transformations, adjunctions of two variables and conjugation**|Simon Willerton et.al.|[2501.01881](http://arxiv.org/abs/2501.01881)|null|
 |**2024-12-30**|**Rough differential equations for volatility**|Ofelia Bonesini et.al.|[2412.21192](http://arxiv.org/abs/2412.21192)|null|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
@@ -4243,7 +4243,7 @@ layout: default
 |**2024-12-27**|**AAM-SEALS: Developing Aerial-Aquatic Manipulators in SEa, Air, and Land Simulator**|William Wang Yang et.al.|[2412.19744](http://arxiv.org/abs/2412.19744)|null|
 |**2024-12-27**|**Generative Pretrained Embedding and Hierarchical Irregular Time Series Representation for Daily Living Activity Recognition**|Damien Bouchabou et.al.|[2412.19732](http://arxiv.org/abs/2412.19732)|**[link](https://github.com/dbouchabou/Generative-Pretrained-Embedding-and-Hierarchical-Representation-to-Unlock-ADL-Rhythm-in-Smart-Homes)**|
 |**2024-12-27**|**Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes**|Csaba Tóth et.al.|[2412.19727](http://arxiv.org/abs/2412.19727)|null|
-|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
+|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|**[link](https://github.com/chenchao15/fcp)**|
 |**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718](http://arxiv.org/abs/2412.19718)|null|
 |**2024-12-27**|**Reparameterization Invariance of FRW Model: Supervariable and BRST Approaches**|B. Chauhan et.al.|[2412.19704](http://arxiv.org/abs/2412.19704)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|

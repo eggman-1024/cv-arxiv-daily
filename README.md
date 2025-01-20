@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -756,7 +756,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## SFM
 
@@ -1066,7 +1066,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2053,7 +2053,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2321,7 +2321,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2603,7 +2603,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## NeRF
 
@@ -2917,7 +2917,7 @@
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
 |**2024-06-14**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
-|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
+|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|**[link](https://github.com/wenwhx/nerfdirector)**|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
 |**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
@@ -3076,7 +3076,7 @@
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
-|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|**[link](https://github.com/Lxiangyue/GenN2N)**|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
 |**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/abs/2404.02514)|null|
@@ -4010,7 +4010,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Object Detection
 
@@ -4033,7 +4033,7 @@
 |**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
 |**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|**[link](https://github.com/simonklind/nf-gradients)**|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Tracking
 
@@ -4087,11 +4087,11 @@
 |**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793](http://arxiv.org/abs/2501.03793)|null|
 |**2025-01-07**|**Optimal control of a nonlinear kinetic Fokker-Planck equation**|Tobias Breiten et.al.|[2501.03784](http://arxiv.org/abs/2501.03784)|null|
 |**2025-01-07**|**Design, Construction, and Testing of the APOLLO ATCA Blades for Use at the HL-LHC**|A. Akpinar et.al.|[2501.03702](http://arxiv.org/abs/2501.03702)|null|
-|**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626](http://arxiv.org/abs/2501.03626)|null|
+|**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626](http://arxiv.org/abs/2501.03626)|**[link](https://github.com/security-pride/commitshield)**|
 |**2025-01-07**|**BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination**|Zhongxuan Zhang et.al.|[2501.03616](http://arxiv.org/abs/2501.03616)|null|
 |**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
 |**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909](http://arxiv.org/abs/2501.01909)|null|
-|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|**[link](https://github.com/analysis-tools-dev/dynamic-analysis)**|
 |**2025-01-03**|**Extranatural transformations, adjunctions of two variables and conjugation**|Simon Willerton et.al.|[2501.01881](http://arxiv.org/abs/2501.01881)|null|
 |**2025-01-03**|**Digital Twin-based SIM Communication and Flight Control for Advanced Air Mobility**|Kai Xiong et.al.|[2501.01837](http://arxiv.org/abs/2501.01837)|null|
 |**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
@@ -4190,7 +4190,7 @@
 |**2024-12-11**|**PADÉ FILTERING, Principles and Use: an Introductory Report**|Jean-Daniel Fournier et.al.|[2412.08254](http://arxiv.org/abs/2412.08254)|null|
 |**2024-12-11**|**MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues**|Junjie Li et.al.|[2412.08247](http://arxiv.org/abs/2412.08247)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Point Cloud
 
@@ -4254,7 +4254,7 @@
 |**2025-01-03**|**Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**|Po-Wei Tang et.al.|[2501.01924](http://arxiv.org/abs/2501.01924)|null|
 |**2025-01-03**|**Observations of the Ultraviolet-bright Star III-60 in the Globular Cluster NGC 6723**|William V. Dixon et.al.|[2501.01909](http://arxiv.org/abs/2501.01909)|null|
 |**2025-01-03**|**Alleviating Overfitting in Transformation-Interaction-Rational Symbolic Regression with Multi-Objective Optimization**|Fabricio Olivetti de Franca et.al.|[2501.01905](http://arxiv.org/abs/2501.01905)|null|
-|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|null|
+|**2025-01-03**|**Teaching Mining Software Repositories**|Zadia Codabux et.al.|[2501.01903](http://arxiv.org/abs/2501.01903)|**[link](https://github.com/analysis-tools-dev/dynamic-analysis)**|
 |**2025-01-03**|**Extranatural transformations, adjunctions of two variables and conjugation**|Simon Willerton et.al.|[2501.01881](http://arxiv.org/abs/2501.01881)|null|
 |**2024-12-30**|**Rough differential equations for volatility**|Ofelia Bonesini et.al.|[2412.21192](http://arxiv.org/abs/2412.21192)|null|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
@@ -4273,7 +4273,7 @@
 |**2024-12-27**|**AAM-SEALS: Developing Aerial-Aquatic Manipulators in SEa, Air, and Land Simulator**|William Wang Yang et.al.|[2412.19744](http://arxiv.org/abs/2412.19744)|null|
 |**2024-12-27**|**Generative Pretrained Embedding and Hierarchical Irregular Time Series Representation for Daily Living Activity Recognition**|Damien Bouchabou et.al.|[2412.19732](http://arxiv.org/abs/2412.19732)|**[link](https://github.com/dbouchabou/Generative-Pretrained-Embedding-and-Hierarchical-Representation-to-Unlock-ADL-Rhythm-in-Smart-Homes)**|
 |**2024-12-27**|**Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes**|Csaba Tóth et.al.|[2412.19727](http://arxiv.org/abs/2412.19727)|null|
-|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
+|**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|**[link](https://github.com/chenchao15/fcp)**|
 |**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718](http://arxiv.org/abs/2412.19718)|null|
 |**2024-12-27**|**Reparameterization Invariance of FRW Model: Supervariable and BRST Approaches**|B. Chauhan et.al.|[2412.19704](http://arxiv.org/abs/2412.19704)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
@@ -4347,7 +4347,7 @@
 |**2024-12-11**|**Analysis Note: Directed flow $v_1$ of protons in the Xe+Cs(I) collisions at 3.8 AGeV (BM@N run8)**|Mikhail Mamamev et.al.|[2412.08570](http://arxiv.org/abs/2412.08570)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Lidar
 
@@ -4373,7 +4373,7 @@
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
 |**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Lidar Object Detection
 
@@ -4472,7 +4472,7 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 ## Muliti-frame Detection
 
@@ -4571,7 +4571,7 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
