@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-21**|**Direct imaging of hydrogen-driven dislocation and strain field evolution in a stainless steel grain**|David Yang et.al.|[2501.12364](http://arxiv.org/abs/2501.12364)|null|
+|**2025-01-21**|**General Field Evaluation in High-Order Meshes on GPUs**|Ketan Mittal et.al.|[2501.12349](http://arxiv.org/abs/2501.12349)|null|
+|**2025-01-21**|**Treefix: Enabling Execution with a Tree of Prefixes**|Beatriz Souza et.al.|[2501.12339](http://arxiv.org/abs/2501.12339)|null|
+|**2025-01-21**|**A Lightweight Approach for User and Keyword Classification in Controversial Topics**|Ahmad Zareie et.al.|[2501.12272](http://arxiv.org/abs/2501.12272)|null|
+|**2025-01-21**|**A look-up table algorithm to model radiation damage effects in Monte Carlo events for HL-LHC experiments**|Marco Bomben et.al.|[2501.12253](http://arxiv.org/abs/2501.12253)|null|
+|**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236](http://arxiv.org/abs/2501.12236)|null|
+|**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
+|**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
 |**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
 |**2025-01-17**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
 |**2025-01-17**|**Application of the VMM3a/SRS: A t0-less TWIN GEM-based TPC**|K. J. Flöthner et.al.|[2501.10207](http://arxiv.org/abs/2501.10207)|null|
@@ -4176,6 +4186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Continuous 3D Perception Model with Persistent State**|Qianqian Wang et.al.|[2501.12387](http://arxiv.org/abs/2501.12387)|null|
+|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
+|**2025-01-21**|**Impacto del Enfoque Matematicas en Tres Actos en la Educacion Matematica**|Felix De la Cruz Serrano et.al.|[2501.12366](http://arxiv.org/abs/2501.12366)|null|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
+|**2025-01-21**|**Direct imaging of hydrogen-driven dislocation and strain field evolution in a stainless steel grain**|David Yang et.al.|[2501.12364](http://arxiv.org/abs/2501.12364)|null|
+|**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
+|**2025-01-21**|**Test-time regression: a unifying framework for designing sequence models with associative memory**|Ke Alexander Wang et.al.|[2501.12352](http://arxiv.org/abs/2501.12352)|null|
 |**2025-01-17**|**Invariant tori for the pressure-jump Hamiltonian**|Robert S. MacKay et.al.|[2501.10353](http://arxiv.org/abs/2501.10353)|null|
 |**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326](http://arxiv.org/abs/2501.10326)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
@@ -4365,6 +4385,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Automatic Labelling & Semantic Segmentation with 4D Radar Tensors**|Botao Sun et.al.|[2501.11351](http://arxiv.org/abs/2501.11351)|null|
+|**2025-01-19**|**LiFT: Lightweight, FPGA-tailored 3D object detection based on LiDAR data**|Konrad Lis et.al.|[2501.11159](http://arxiv.org/abs/2501.11159)|**[link](https://github.com/vision-agh/lift)**|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
+|**2025-01-19**|**Multi-LiCa: A Motion and Targetless Multi LiDAR-to-LiDAR Calibration Framework**|Dominik Kulmer et.al.|[2501.11088](http://arxiv.org/abs/2501.11088)|null|
+|**2025-01-17**|**High Resolution Tree Height Mapping of the Amazon Forest using Planet NICFI Images and LiDAR-Informed U-Net Model**|Fabien H Wagner et.al.|[2501.10600](http://arxiv.org/abs/2501.10600)|null|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
 |**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|null|
 |**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
@@ -4464,6 +4489,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Automatic Labelling & Semantic Segmentation with 4D Radar Tensors**|Botao Sun et.al.|[2501.11351](http://arxiv.org/abs/2501.11351)|null|
+|**2025-01-19**|**LiFT: Lightweight, FPGA-tailored 3D object detection based on LiDAR data**|Konrad Lis et.al.|[2501.11159](http://arxiv.org/abs/2501.11159)|**[link](https://github.com/vision-agh/lift)**|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
+|**2025-01-19**|**Multi-LiCa: A Motion and Targetless Multi LiDAR-to-LiDAR Calibration Framework**|Dominik Kulmer et.al.|[2501.11088](http://arxiv.org/abs/2501.11088)|null|
+|**2025-01-17**|**High Resolution Tree Height Mapping of the Amazon Forest using Planet NICFI Images and LiDAR-Informed U-Net Model**|Fabien H Wagner et.al.|[2501.10600](http://arxiv.org/abs/2501.10600)|null|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
 |**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|null|
 |**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
