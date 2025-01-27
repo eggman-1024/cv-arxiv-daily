@@ -3181,7 +3181,7 @@
 |**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
-|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|**[link](https://github.com/chengine/splatnav)**|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
@@ -4049,7 +4049,7 @@
 |**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Charge calibration of MALTA2, a radiation hard depleted monolithic active pixel sensor**|Lucian Fasselt et.al.|[2501.13562](http://arxiv.org/abs/2501.13562)|null|
 |**2025-01-23**|**Towards a Theory of AI Personhood**|Francis Rhys Ward et.al.|[2501.13533](http://arxiv.org/abs/2501.13533)|null|
-|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**Direct imaging of hydrogen-driven dislocation and strain field evolution in a stainless steel grain**|David Yang et.al.|[2501.12364](http://arxiv.org/abs/2501.12364)|null|
 |**2025-01-21**|**General Field Evaluation in High-Order Meshes on GPUs**|Ketan Mittal et.al.|[2501.12349](http://arxiv.org/abs/2501.12349)|null|
@@ -4093,10 +4093,10 @@
 |**2025-01-13**|**Evaluating Agent-based Program Repair at Google**|Pat Rondon et.al.|[2501.07531](http://arxiv.org/abs/2501.07531)|null|
 |**2025-01-13**|**Three-dimensional transport of solids in a protoplanetary disk containing a growing giant planet**|Eric Van Clepper et.al.|[2501.07520](http://arxiv.org/abs/2501.07520)|null|
 |**2025-01-13**|**A Survey of Embodied AI in Healthcare: Techniques, Applications, and Opportunities**|Yihao Liu et.al.|[2501.07468](http://arxiv.org/abs/2501.07468)|null|
-|**2025-01-13**|**A Linear Parameter-Varying Framework for the Analysis of Time-Varying Optimization Algorithms**|Fabian Jakob et.al.|[2501.07461](http://arxiv.org/abs/2501.07461)|null|
+|**2025-01-13**|**A Linear Parameter-Varying Framework for the Analysis of Time-Varying Optimization Algorithms**|Fabian Jakob et.al.|[2501.07461](http://arxiv.org/abs/2501.07461)|**[link](https://github.com/col-tasas/2024-tvopt-algorithm-analysis)**|
 |**2025-01-13**|**Is planetary inward migration responsible for GJ 504's fast rotation and bright X-ray luminosity? New constraints from eROSITA**|C. Pezzotti et.al.|[2501.07402](http://arxiv.org/abs/2501.07402)|null|
 |**2025-01-13**|**Learning quantum properties with informationally redundant external representations: An eye-tracking study**|Eva Rexigel et.al.|[2501.07389](http://arxiv.org/abs/2501.07389)|null|
-|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360](http://arxiv.org/abs/2501.07360)|null|
+|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360](http://arxiv.org/abs/2501.07360)|**[link](https://github.com/timbervision/timbervision)**|
 |**2025-01-13**|**Ultra-resolution photochemical sensing**|Lukas Fuerst et.al.|[2501.07350](http://arxiv.org/abs/2501.07350)|null|
 |**2025-01-13**|**A method for estimating roadway billboard salience**|Zuzana Berger Haladova et.al.|[2501.07342](http://arxiv.org/abs/2501.07342)|null|
 |**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
@@ -4236,7 +4236,7 @@
 |**2025-01-23**|**Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning**|Matyáš Lorenc et.al.|[2501.13883](http://arxiv.org/abs/2501.13883)|**[link](https://github.com/mafi412/evolution-strategies-and-decision-transformers)**|
 |**2025-01-23**|**Eye Gaze as a Signal for Conveying User Attention in Contextual AI Systems**|Ethan Wilson et.al.|[2501.13878](http://arxiv.org/abs/2501.13878)|null|
 |**2025-01-23**|**Approach to nonequilibrium: from anomalous to Brownian diffusion via non-Gaussianity**|I. G. Marchenko et.al.|[2501.13875](http://arxiv.org/abs/2501.13875)|null|
-|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2025-01-21**|**Continuous 3D Perception Model with Persistent State**|Qianqian Wang et.al.|[2501.12387](http://arxiv.org/abs/2501.12387)|null|
 |**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
@@ -4272,7 +4272,7 @@
 |**2025-01-15**|**Spectral Eigenfunction Decomposition for Kernel Adaptive Filtering**|Kan Li et.al.|[2501.08989](http://arxiv.org/abs/2501.08989)|null|
 |**2025-01-15**|**Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics**|Nicolás Guarín-Zapata et.al.|[2501.08954](http://arxiv.org/abs/2501.08954)|null|
 |**2025-01-15**|**Taint Analysis for Graph APIs Focusing on Broken Access Control**|Leen Lambers et.al.|[2501.08947](http://arxiv.org/abs/2501.08947)|null|
-|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945](http://arxiv.org/abs/2501.08945)|null|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945](http://arxiv.org/abs/2501.08945)|**[link](https://github.com/yiliu1998/coadvise)**|
 |**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
 |**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
 |**2025-01-15**|**Modeling Melt Pool Features and Spatter Using Symbolic Regression and Machine Learning**|Olabode T. Ajenifujah et.al.|[2501.08922](http://arxiv.org/abs/2501.08922)|null|
@@ -4450,7 +4450,7 @@
 |**2025-01-19**|**Multi-LiCa: A Motion and Targetless Multi LiDAR-to-LiDAR Calibration Framework**|Dominik Kulmer et.al.|[2501.11088](http://arxiv.org/abs/2501.11088)|null|
 |**2025-01-17**|**High Resolution Tree Height Mapping of the Amazon Forest using Planet NICFI Images and LiDAR-Informed U-Net Model**|Fabien H Wagner et.al.|[2501.10600](http://arxiv.org/abs/2501.10600)|null|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
-|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|null|
+|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|**[link](https://github.com/alexberian/crossmodalitydiffusion)**|
 |**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490](http://arxiv.org/abs/2501.09490)|null|
 |**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485](http://arxiv.org/abs/2501.09485)|null|
@@ -4460,7 +4460,7 @@
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
 |**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
 |**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[2501.07988](http://arxiv.org/abs/2501.07988)|null|
-|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
+|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|**[link](https://github.com/ziweihuang96/synthsom)**|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-13**|**High-efficiency, high-count-rate 2D superconducting nanowire single-photon detector array**|Fiona Fleming et.al.|[2501.07357](http://arxiv.org/abs/2501.07357)|null|
 |**2025-01-13**|**Synesthesia of Machines Based Multi-Modal Intelligent V2V Channel Model**|Zengrui Han et.al.|[2501.07333](http://arxiv.org/abs/2501.07333)|null|
@@ -4561,7 +4561,7 @@
 |**2025-01-19**|**Multi-LiCa: A Motion and Targetless Multi LiDAR-to-LiDAR Calibration Framework**|Dominik Kulmer et.al.|[2501.11088](http://arxiv.org/abs/2501.11088)|null|
 |**2025-01-17**|**High Resolution Tree Height Mapping of the Amazon Forest using Planet NICFI Images and LiDAR-Informed U-Net Model**|Fabien H Wagner et.al.|[2501.10600](http://arxiv.org/abs/2501.10600)|null|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
-|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|null|
+|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|**[link](https://github.com/alexberian/crossmodalitydiffusion)**|
 |**2025-01-16**|**Model Predictive Path Integral Docking of Fully Actuated Surface Vessel**|Akash Vijayakumar et.al.|[2501.09668](http://arxiv.org/abs/2501.09668)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490](http://arxiv.org/abs/2501.09490)|null|
 |**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485](http://arxiv.org/abs/2501.09485)|null|
@@ -4571,7 +4571,7 @@
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
 |**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
 |**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[2501.07988](http://arxiv.org/abs/2501.07988)|null|
-|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
+|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|**[link](https://github.com/ziweihuang96/synthsom)**|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-13**|**High-efficiency, high-count-rate 2D superconducting nanowire single-photon detector array**|Fiona Fleming et.al.|[2501.07357](http://arxiv.org/abs/2501.07357)|null|
 |**2025-01-13**|**Synesthesia of Machines Based Multi-Modal Intelligent V2V Channel Model**|Zengrui Han et.al.|[2501.07333](http://arxiv.org/abs/2501.07333)|null|
