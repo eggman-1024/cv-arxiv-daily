@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -756,7 +756,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## SFM
 
@@ -1066,7 +1066,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2053,7 +2053,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2321,7 +2321,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2603,7 +2603,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## NeRF
 
@@ -4010,7 +4010,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Object Detection
 
@@ -4033,12 +4033,22 @@
 |**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
 |**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|**[link](https://github.com/simonklind/nf-gradients)**|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Optimum Monitoring and Job Assignment with Multiple Markov Machines**|Sahan Liyanaarachchi et.al.|[2501.18572](http://arxiv.org/abs/2501.18572)|null|
+|**2025-01-30**|**An Empirical Study of Dotfiles Repositories Containing User-Specific Configuration Files**|Wenhan Zhu et.al.|[2501.18555](http://arxiv.org/abs/2501.18555)|null|
+|**2025-01-30**|**Graph Learning for Bidirectional Disease Contact Tracing on Real Human Mobility Data**|Sofia Hurtado et.al.|[2501.18531](http://arxiv.org/abs/2501.18531)|null|
+|**2025-01-30**|**Track-On: Transformer-based Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2501.18487](http://arxiv.org/abs/2501.18487)|null|
+|**2025-01-30**|**Beyond Instructed Tasks: Recognizing In-the-Wild Reading Behaviors in the Classroom Using Eye Tracking**|Eduardo Davalos et.al.|[2501.18468](http://arxiv.org/abs/2501.18468)|null|
+|**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361](http://arxiv.org/abs/2501.18361)|null|
+|**2025-01-30**|**MAMS: Model-Agnostic Module Selection Framework for Video Captioning**|Sangho Lee et.al.|[2501.18269](http://arxiv.org/abs/2501.18269)|null|
+|**2025-01-30**|**On-Line Learning for Planning and Control of Underactuated Robots with Uncertain Dynamics**|Giulio Turrisi et.al.|[2501.18220](http://arxiv.org/abs/2501.18220)|null|
+|**2025-01-30**|**Revisiting gender bias research in bibliometrics: Standardizing methodological variability using Scholarly Data Analysis (SoDA) Cards**|HaeJin Lee et.al.|[2501.18129](http://arxiv.org/abs/2501.18129)|null|
+|**2025-01-30**|**REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning**|Liangjing Shao et.al.|[2501.18124](http://arxiv.org/abs/2501.18124)|null|
 |**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767](http://arxiv.org/abs/2501.17767)|null|
 |**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
 |**2025-01-29**|**Predictive Beamforming with Distributed MIMO**|Hasret Taha Akçalı et.al.|[2501.17746](http://arxiv.org/abs/2501.17746)|null|
@@ -4240,12 +4250,22 @@
 |**2024-12-11**|**PADÉ FILTERING, Principles and Use: an Introductory Report**|Jean-Daniel Fournier et.al.|[2412.08254](http://arxiv.org/abs/2412.08254)|null|
 |**2024-12-11**|**MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues**|Junjie Li et.al.|[2412.08247](http://arxiv.org/abs/2412.08247)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Point Cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
+|**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
+|**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581](http://arxiv.org/abs/2501.18581)|null|
+|**2025-01-30**|**Optimum Monitoring and Job Assignment with Multiple Markov Machines**|Sahan Liyanaarachchi et.al.|[2501.18572](http://arxiv.org/abs/2501.18572)|null|
+|**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
+|**2025-01-30**|**An Empirical Study of Dotfiles Repositories Containing User-Specific Configuration Files**|Wenhan Zhu et.al.|[2501.18555](http://arxiv.org/abs/2501.18555)|null|
+|**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547](http://arxiv.org/abs/2501.18547)|null|
+|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/UDC-VIT)**|
+|**2025-01-30**|**Learning Priors of Human Motion With Vision Transformers**|Placido Falqueto et.al.|[2501.18543](http://arxiv.org/abs/2501.18543)|null|
+|**2025-01-30**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535](http://arxiv.org/abs/2501.18535)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
 |**2025-01-29**|**Self-organised dynamics and emergent shape spaces of active isotropic fluid surfaces**|Da Gao et.al.|[2501.17849](http://arxiv.org/abs/2501.17849)|null|
 |**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836](http://arxiv.org/abs/2501.17836)|null|
@@ -4447,7 +4467,7 @@
 |**2024-12-11**|**Analysis Note: Directed flow $v_1$ of protons in the Xe+Cs(I) collisions at 3.8 AGeV (BM@N run8)**|Mikhail Mamamev et.al.|[2412.08570](http://arxiv.org/abs/2412.08570)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Lidar
 
@@ -4473,12 +4493,16 @@
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
 |**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Lidar Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
+|**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
+|**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[2501.17977](http://arxiv.org/abs/2501.17977)|**[link](https://github.com/radar-lab/transrad)**|
 |**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534](http://arxiv.org/abs/2501.17534)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
@@ -4596,12 +4620,16 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 ## Muliti-frame Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
+|**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
+|**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[2501.17977](http://arxiv.org/abs/2501.17977)|**[link](https://github.com/radar-lab/transrad)**|
 |**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534](http://arxiv.org/abs/2501.17534)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
@@ -4719,7 +4747,7 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
