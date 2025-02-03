@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.01
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4233,7 +4233,7 @@ layout: default
 |**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
 |**2025-01-30**|**An Empirical Study of Dotfiles Repositories Containing User-Specific Configuration Files**|Wenhan Zhu et.al.|[2501.18555](http://arxiv.org/abs/2501.18555)|null|
 |**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547](http://arxiv.org/abs/2501.18547)|null|
-|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/UDC-VIT)**|
+|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-30**|**Learning Priors of Human Motion With Vision Transformers**|Placido Falqueto et.al.|[2501.18543](http://arxiv.org/abs/2501.18543)|null|
 |**2025-01-30**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535](http://arxiv.org/abs/2501.18535)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
