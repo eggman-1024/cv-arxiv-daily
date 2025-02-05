@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319](http://arxiv.org/abs/2501.19319)|**[link](https://github.com/lastbasket/endo-2dtam)**|
+|**2025-01-31**|**Experimental Investigation of Vortex Shedding in Superfluid $^4$ He**|Brichet Lyse et.al.|[2501.19292](http://arxiv.org/abs/2501.19292)|null|
+|**2025-01-31**|**From Soft Materials to Controllers with NeuroTouch: A Neuromorphic Tactile Sensor for Real-Time Gesture Recognition**|Victor Hoffmann et.al.|[2501.19174](http://arxiv.org/abs/2501.19174)|null|
+|**2025-01-31**|**SkipFlow: Improving the Precision of Points-to Analysis using Primitive Values and Predicate Edges**|David Kozak et.al.|[2501.19150](http://arxiv.org/abs/2501.19150)|null|
+|**2025-01-31**|**FL-APU: A Software Architecture to Ease Practical Implementation of Cross-Silo Federated Learning**|F. Stricker et.al.|[2501.19091](http://arxiv.org/abs/2501.19091)|null|
+|**2025-01-31**|**The Role of Graph-based MIL and Interventional Training in the Generalization of WSI Classifiers**|Rita Pereira et.al.|[2501.19048](http://arxiv.org/abs/2501.19048)|null|
+|**2025-01-31**|**Velocity Distribution of a Uniformly Heated Hard Sphere Granular Gas**|Rameez Farooq Shah et.al.|[2501.18900](http://arxiv.org/abs/2501.18900)|null|
+|**2025-01-31**|**Distributed Observer Design for Tracking Platoon of Connected and Autonomous Vehicles**|Mohammadreza Doostmohammadian et.al.|[2501.18890](http://arxiv.org/abs/2501.18890)|null|
+|**2025-01-31**|**DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense**|Jeonghyun Woo et.al.|[2501.18857](http://arxiv.org/abs/2501.18857)|null|
+|**2025-01-31**|**Tracking Error Based Fault Tolerant Scheme for Marine Vehicles with Thruster Redundancy**|Ji-Hong Li et.al.|[2501.18852](http://arxiv.org/abs/2501.18852)|null|
 |**2025-01-30**|**Optimum Monitoring and Job Assignment with Multiple Markov Machines**|Sahan Liyanaarachchi et.al.|[2501.18572](http://arxiv.org/abs/2501.18572)|null|
 |**2025-01-30**|**An Empirical Study of Dotfiles Repositories Containing User-Specific Configuration Files**|Wenhan Zhu et.al.|[2501.18555](http://arxiv.org/abs/2501.18555)|null|
 |**2025-01-30**|**Graph Learning for Bidirectional Disease Contact Tracing on Real Human Mobility Data**|Sofia Hurtado et.al.|[2501.18531](http://arxiv.org/abs/2501.18531)|null|
@@ -4226,6 +4236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction**|Yuhao Sun et.al.|[2501.19405](http://arxiv.org/abs/2501.19405)|null|
+|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
+|**2025-01-31**|**Neural Implicit Solution Formula for Efficiently Solving Hamilton-Jacobi Equations**|Yesom Park et.al.|[2501.19351](http://arxiv.org/abs/2501.19351)|null|
+|**2025-01-31**|**Low-cost Microfluidic Testbed for Molecular Communications with Integrated Hydrodynamic Gating and Screen-printed Sensors**|Maide Miray Albay et.al.|[2501.19341](http://arxiv.org/abs/2501.19341)|null|
+|**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338](http://arxiv.org/abs/2501.19338)|null|
+|**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
+|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319](http://arxiv.org/abs/2501.19319)|**[link](https://github.com/lastbasket/endo-2dtam)**|
+|**2025-01-31**|**An Efficient Approach for Machine Translation on Low-resource Languages: A Case Study in Vietnamese-Chinese**|Tran Ngoc Son et.al.|[2501.19314](http://arxiv.org/abs/2501.19314)|null|
+|**2025-01-31**|**Ultra-fast Real-time Target Recognition Using a Shift, Scale, and Rotation Invariant Hybrid Opto-electronic Joint Transform Correlator**|Xi Shen et.al.|[2501.19299](http://arxiv.org/abs/2501.19299)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581](http://arxiv.org/abs/2501.18581)|null|
@@ -4465,6 +4485,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
+|**2025-01-31**|**Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation**|Jan Pauls et.al.|[2501.19328](http://arxiv.org/abs/2501.19328)|null|
+|**2025-01-31**|**SynthmanticLiDAR: A Synthetic Dataset for Semantic Segmentation on LiDAR Imaging**|Javier Montalvo et.al.|[2501.19035](http://arxiv.org/abs/2501.19035)|null|
+|**2025-01-31**|**HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer**|Minwoo Jung et.al.|[2501.18943](http://arxiv.org/abs/2501.18943)|null|
+|**2025-01-30**|**A New Statistical Approach to the Performance Analysis of Vision-based Localization**|Haozhou Hu et.al.|[2501.18758](http://arxiv.org/abs/2501.18758)|null|
 |**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
@@ -4590,6 +4615,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
+|**2025-01-31**|**Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation**|Jan Pauls et.al.|[2501.19328](http://arxiv.org/abs/2501.19328)|null|
+|**2025-01-31**|**SynthmanticLiDAR: A Synthetic Dataset for Semantic Segmentation on LiDAR Imaging**|Javier Montalvo et.al.|[2501.19035](http://arxiv.org/abs/2501.19035)|null|
+|**2025-01-31**|**HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer**|Minwoo Jung et.al.|[2501.18943](http://arxiv.org/abs/2501.18943)|null|
+|**2025-01-30**|**A New Statistical Approach to the Performance Analysis of Vision-based Localization**|Haozhou Hu et.al.|[2501.18758](http://arxiv.org/abs/2501.18758)|null|
 |**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
