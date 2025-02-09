@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Stochastic SIR model with individual heterogeneity and infection-age dependent infectivity on large non-homogeneous random graphs**|Guodong Pang et.al.|[2502.04225](http://arxiv.org/abs/2502.04225)|null|
+|**2025-02-06**|**Performance studies of the CE-65v2 MAPS prototype structure**|A. Ilg et.al.|[2502.04070](http://arxiv.org/abs/2502.04070)|null|
+|**2025-02-06**|**Debiasing Architectural Decision-Making: An Experiment With Students and Practitioners**|Klara Borowa et.al.|[2502.04011](http://arxiv.org/abs/2502.04011)|null|
+|**2025-02-06**|**Spatiotemporal Trajectory Tracking Method for Vehicles Incorporating Lead-Lag Judgement**|Yuan Li et.al.|[2502.03974](http://arxiv.org/abs/2502.03974)|null|
+|**2025-02-06**|**Axisymmetric stability of neutron stars as extreme rotators in massive scalar-tensor theory**|Alan Tsz-Lok Lam et.al.|[2502.03973](http://arxiv.org/abs/2502.03973)|null|
+|**2025-02-06**|**An Elaborate Search for Coherent Pulsations from Intermittent-AMXPs**|Mustafa Turan Sağlam et.al.|[2502.03947](http://arxiv.org/abs/2502.03947)|null|
+|**2025-02-06**|**Unravelling Causal Genetic Biomarkers of Alzheimer's Disease via Neuron to Gene-token Backtracking in Neural Architecture: A Groundbreaking Reverse-Gene-Finder Approach**|Victor OK Li et.al.|[2502.03938](http://arxiv.org/abs/2502.03938)|null|
+|**2025-02-06**|**No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking**|Emil Mededovic et.al.|[2502.03907](http://arxiv.org/abs/2502.03907)|null|
+|**2025-02-06**|**Hierarchical Entropic Diffusion for Ransomware Detection: A Probabilistic Approach to Behavioral Anomaly Isolation**|Vasili Iskorohodov et.al.|[2502.03882](http://arxiv.org/abs/2502.03882)|null|
+|**2025-02-06**|**Consumer INS Coupled with Carrier Phase Measurements for GNSS Spoofing Detection**|Tore Johansson et.al.|[2502.03870](http://arxiv.org/abs/2502.03870)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454](http://arxiv.org/abs/2502.03454)|null|
 |**2025-02-05**|**Analyzing Political Discourse on Discord during the 2024 U.S. Presidential Election**|Arthur Buzelin et.al.|[2502.03433](http://arxiv.org/abs/2502.03433)|null|
@@ -4246,6 +4256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
+|**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
+|**2025-02-06**|**Mutual Multilinearity of Nonequilibrium Network Currents**|Sara Dal Cengio et.al.|[2502.04298](http://arxiv.org/abs/2502.04298)|null|
+|**2025-02-06**|**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**|Yi Yu et.al.|[2502.04268](http://arxiv.org/abs/2502.04268)|null|
+|**2025-02-06**|**Cognitive AI framework: advances in the simulation of human thought**|Rommel Salas-Guerra et.al.|[2502.04259](http://arxiv.org/abs/2502.04259)|null|
+|**2025-02-06**|**Probability Bracket Notation for Probability Modeling**|Xing M. Wang et.al.|[2502.04257](http://arxiv.org/abs/2502.04257)|null|
+|**2025-02-06**|**Landau-Khalatnikov-Fradkin Transformations in Quantum Electrodynamics: For Perturbation Theory and Dynamical Mass Generation**|Anam Ashraf et.al.|[2502.04254](http://arxiv.org/abs/2502.04254)|null|
+|**2025-02-06**|**Multi-fidelity emulator for large-scale 21 cm lightcone images: a few-shot transfer learning approach with generative adversarial network**|Kangning Diao et.al.|[2502.04246](http://arxiv.org/abs/2502.04246)|null|
+|**2025-02-06**|**TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi**|Mohammed Amaan Dhamaskar et.al.|[2502.04245](http://arxiv.org/abs/2502.04245)|null|
+|**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244](http://arxiv.org/abs/2502.04244)|null|
 |**2025-02-05**|**Seeing World Dynamics in a Nutshell**|Qiuhong Shen et.al.|[2502.03465](http://arxiv.org/abs/2502.03465)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457](http://arxiv.org/abs/2502.03457)|null|
@@ -4505,6 +4525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Safe Quadrotor Navigation using Composite Control Barrier Functions**|Marvin Harms et.al.|[2502.04101](http://arxiv.org/abs/2502.04101)|null|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322](http://arxiv.org/abs/2502.02322)|null|
 |**2025-02-04**|**DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.|[2502.02171](http://arxiv.org/abs/2502.02171)|null|
@@ -4645,6 +4667,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Safe Quadrotor Navigation using Composite Control Barrier Functions**|Marvin Harms et.al.|[2502.04101](http://arxiv.org/abs/2502.04101)|null|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322](http://arxiv.org/abs/2502.02322)|null|
 |**2025-02-04**|**DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.|[2502.02171](http://arxiv.org/abs/2502.02171)|null|

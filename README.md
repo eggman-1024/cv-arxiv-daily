@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -756,7 +756,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## SFM
 
@@ -1066,7 +1066,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2053,7 +2053,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2321,7 +2321,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2603,7 +2603,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## NeRF
 
@@ -4010,7 +4010,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Object Detection
 
@@ -4033,12 +4033,22 @@
 |**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
 |**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|**[link](https://github.com/simonklind/nf-gradients)**|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Stochastic SIR model with individual heterogeneity and infection-age dependent infectivity on large non-homogeneous random graphs**|Guodong Pang et.al.|[2502.04225](http://arxiv.org/abs/2502.04225)|null|
+|**2025-02-06**|**Performance studies of the CE-65v2 MAPS prototype structure**|A. Ilg et.al.|[2502.04070](http://arxiv.org/abs/2502.04070)|null|
+|**2025-02-06**|**Debiasing Architectural Decision-Making: An Experiment With Students and Practitioners**|Klara Borowa et.al.|[2502.04011](http://arxiv.org/abs/2502.04011)|null|
+|**2025-02-06**|**Spatiotemporal Trajectory Tracking Method for Vehicles Incorporating Lead-Lag Judgement**|Yuan Li et.al.|[2502.03974](http://arxiv.org/abs/2502.03974)|null|
+|**2025-02-06**|**Axisymmetric stability of neutron stars as extreme rotators in massive scalar-tensor theory**|Alan Tsz-Lok Lam et.al.|[2502.03973](http://arxiv.org/abs/2502.03973)|null|
+|**2025-02-06**|**An Elaborate Search for Coherent Pulsations from Intermittent-AMXPs**|Mustafa Turan Sağlam et.al.|[2502.03947](http://arxiv.org/abs/2502.03947)|null|
+|**2025-02-06**|**Unravelling Causal Genetic Biomarkers of Alzheimer's Disease via Neuron to Gene-token Backtracking in Neural Architecture: A Groundbreaking Reverse-Gene-Finder Approach**|Victor OK Li et.al.|[2502.03938](http://arxiv.org/abs/2502.03938)|null|
+|**2025-02-06**|**No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking**|Emil Mededovic et.al.|[2502.03907](http://arxiv.org/abs/2502.03907)|null|
+|**2025-02-06**|**Hierarchical Entropic Diffusion for Ransomware Detection: A Probabilistic Approach to Behavioral Anomaly Isolation**|Vasili Iskorohodov et.al.|[2502.03882](http://arxiv.org/abs/2502.03882)|null|
+|**2025-02-06**|**Consumer INS Coupled with Carrier Phase Measurements for GNSS Spoofing Detection**|Tore Johansson et.al.|[2502.03870](http://arxiv.org/abs/2502.03870)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454](http://arxiv.org/abs/2502.03454)|null|
 |**2025-02-05**|**Analyzing Political Discourse on Discord during the 2024 U.S. Presidential Election**|Arthur Buzelin et.al.|[2502.03433](http://arxiv.org/abs/2502.03433)|null|
@@ -4270,12 +4280,22 @@
 |**2024-12-11**|**PADÉ FILTERING, Principles and Use: an Introductory Report**|Jean-Daniel Fournier et.al.|[2412.08254](http://arxiv.org/abs/2412.08254)|null|
 |**2024-12-11**|**MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues**|Junjie Li et.al.|[2412.08247](http://arxiv.org/abs/2412.08247)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Point Cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
+|**2025-02-06**|**Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction**|Chris Choy et.al.|[2502.04317](http://arxiv.org/abs/2502.04317)|null|
+|**2025-02-06**|**Mutual Multilinearity of Nonequilibrium Network Currents**|Sara Dal Cengio et.al.|[2502.04298](http://arxiv.org/abs/2502.04298)|null|
+|**2025-02-06**|**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**|Yi Yu et.al.|[2502.04268](http://arxiv.org/abs/2502.04268)|null|
+|**2025-02-06**|**Cognitive AI framework: advances in the simulation of human thought**|Rommel Salas-Guerra et.al.|[2502.04259](http://arxiv.org/abs/2502.04259)|null|
+|**2025-02-06**|**Probability Bracket Notation for Probability Modeling**|Xing M. Wang et.al.|[2502.04257](http://arxiv.org/abs/2502.04257)|null|
+|**2025-02-06**|**Landau-Khalatnikov-Fradkin Transformations in Quantum Electrodynamics: For Perturbation Theory and Dynamical Mass Generation**|Anam Ashraf et.al.|[2502.04254](http://arxiv.org/abs/2502.04254)|null|
+|**2025-02-06**|**Multi-fidelity emulator for large-scale 21 cm lightcone images: a few-shot transfer learning approach with generative adversarial network**|Kangning Diao et.al.|[2502.04246](http://arxiv.org/abs/2502.04246)|null|
+|**2025-02-06**|**TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi**|Mohammed Amaan Dhamaskar et.al.|[2502.04245](http://arxiv.org/abs/2502.04245)|null|
+|**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244](http://arxiv.org/abs/2502.04244)|null|
 |**2025-02-05**|**Seeing World Dynamics in a Nutshell**|Qiuhong Shen et.al.|[2502.03465](http://arxiv.org/abs/2502.03465)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457](http://arxiv.org/abs/2502.03457)|null|
@@ -4507,7 +4527,7 @@
 |**2024-12-11**|**Analysis Note: Directed flow $v_1$ of protons in the Xe+Cs(I) collisions at 3.8 AGeV (BM@N run8)**|Mikhail Mamamev et.al.|[2412.08570](http://arxiv.org/abs/2412.08570)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Lidar
 
@@ -4533,12 +4553,14 @@
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
 |**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Lidar Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Safe Quadrotor Navigation using Composite Control Barrier Functions**|Marvin Harms et.al.|[2502.04101](http://arxiv.org/abs/2502.04101)|null|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322](http://arxiv.org/abs/2502.02322)|null|
 |**2025-02-04**|**DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.|[2502.02171](http://arxiv.org/abs/2502.02171)|null|
@@ -4675,12 +4697,14 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Muliti-frame Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Safe Quadrotor Navigation using Composite Control Barrier Functions**|Marvin Harms et.al.|[2502.04101](http://arxiv.org/abs/2502.04101)|null|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322](http://arxiv.org/abs/2502.02322)|null|
 |**2025-02-04**|**DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.|[2502.02171](http://arxiv.org/abs/2502.02171)|null|
@@ -4817,7 +4841,7 @@
 |**2024-12-11**|**DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**|Xiaohu Lu et.al.|[2412.08806](http://arxiv.org/abs/2412.08806)|**[link](https://github.com/xiaohulugo/t-ro2024-dali)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
