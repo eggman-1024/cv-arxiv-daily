@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
+|**2025-02-19**|**Imaging the Photochemistry of Cyclobutanone using Ultrafast Electron Diffraction: Experimental Results**|A. E. Green et.al.|[2502.13956](http://arxiv.org/abs/2502.13956)|null|
+|**2025-02-19**|**Spatially Encoded Polaritonic Ultra-Strong Coupling in Gradient Metasurfaces with Epsilon-Near-Zero Modes**|Enrico Bau et.al.|[2502.13941](http://arxiv.org/abs/2502.13941)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**Optimizing Research Portfolio For Semantic Impact**|Alexander V. Belikov et.al.|[2502.13912](http://arxiv.org/abs/2502.13912)|null|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**GroundCap: A Visually Grounded Image Captioning Dataset**|Daniel A. P. Oliveira et.al.|[2502.13898](http://arxiv.org/abs/2502.13898)|null|
+|**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
+|**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
+|**2025-02-19**|**From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions**|Nathanaël Carraz Rakotonirina et.al.|[2502.13791](http://arxiv.org/abs/2502.13791)|null|
 |**2025-02-17**|**REVERSUM: A Multi-staged Retrieval-Augmented Generation Method to Enhance Wikipedia Tail Biographies through Personal Narratives**|Sayantan Adak et.al.|[2502.12137](http://arxiv.org/abs/2502.12137)|null|
 |**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
 |**2025-02-17**|**A Monocular Event-Camera Motion Capture System**|Leonard Bauersfeld et.al.|[2502.12113](http://arxiv.org/abs/2502.12113)|null|
@@ -4296,6 +4306,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
+|**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
+|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961](http://arxiv.org/abs/2502.13961)|null|
+|**2025-02-19**|**Imaging the Photochemistry of Cyclobutanone using Ultrafast Electron Diffraction: Experimental Results**|A. E. Green et.al.|[2502.13956](http://arxiv.org/abs/2502.13956)|null|
+|**2025-02-19**|**Neurosymbolic artificial intelligence via large language models and coherence-driven inference**|Steve Huntsman et.al.|[2502.13953](http://arxiv.org/abs/2502.13953)|null|
+|**2025-02-19**|**Spatially Encoded Polaritonic Ultra-Strong Coupling in Gradient Metasurfaces with Epsilon-Near-Zero Modes**|Enrico Bau et.al.|[2502.13941](http://arxiv.org/abs/2502.13941)|null|
+|**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936](http://arxiv.org/abs/2502.13936)|null|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913](http://arxiv.org/abs/2502.13913)|null|
 |**2025-02-17**|**REVERSUM: A Multi-staged Retrieval-Augmented Generation Method to Enhance Wikipedia Tail Biographies through Personal Narratives**|Sayantan Adak et.al.|[2502.12137](http://arxiv.org/abs/2502.12137)|null|
 |**2025-02-17**|**MagicArticulate: Make Your 3D Models Articulation-Ready**|Chaoyue Song et.al.|[2502.12135](http://arxiv.org/abs/2502.12135)|null|
 |**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
@@ -4605,6 +4625,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
+|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[2502.13641](http://arxiv.org/abs/2502.13641)|null|
+|**2025-02-19**|**Ephemerality meets LiDAR-based Lifelong Mapping**|Hyeonjae Gil et.al.|[2502.13452](http://arxiv.org/abs/2502.13452)|null|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
+|**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
+|**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860](http://arxiv.org/abs/2502.12860)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
+|**2025-02-18**|**LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System**|Jianping Li et.al.|[2502.12655](http://arxiv.org/abs/2502.12655)|null|
 |**2025-02-17**|**Deep Neural Networks for Accurate Depth Estimation with Latent Space Features**|Siddiqui Muhammad Yasir et.al.|[2502.11777](http://arxiv.org/abs/2502.11777)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
 |**2025-02-17**|**Real-time Neural Rendering of LiDAR Point Clouds**|Joni Vanherck et.al.|[2502.11618](http://arxiv.org/abs/2502.11618)|null|
@@ -4775,6 +4803,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
+|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[2502.13641](http://arxiv.org/abs/2502.13641)|null|
+|**2025-02-19**|**Ephemerality meets LiDAR-based Lifelong Mapping**|Hyeonjae Gil et.al.|[2502.13452](http://arxiv.org/abs/2502.13452)|null|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
+|**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
+|**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860](http://arxiv.org/abs/2502.12860)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
+|**2025-02-18**|**LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System**|Jianping Li et.al.|[2502.12655](http://arxiv.org/abs/2502.12655)|null|
 |**2025-02-17**|**Deep Neural Networks for Accurate Depth Estimation with Latent Space Features**|Siddiqui Muhammad Yasir et.al.|[2502.11777](http://arxiv.org/abs/2502.11777)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
 |**2025-02-17**|**Real-time Neural Rendering of LiDAR Point Clouds**|Joni Vanherck et.al.|[2502.11618](http://arxiv.org/abs/2502.11618)|null|
