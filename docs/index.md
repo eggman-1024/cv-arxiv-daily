@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.21
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**|Luis Antonio Gutiérrez Guanilo et.al.|[2502.14820](http://arxiv.org/abs/2502.14820)|null|
+|**2025-02-20**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee et.al.|[2502.14783](http://arxiv.org/abs/2502.14783)|null|
+|**2025-02-20**|**Beyond Performance Scores: Directed Functional Connectivity as a Brain-Based Biomarker for Motor Skill Learning and Retention**|Anil Kamat et.al.|[2502.14731](http://arxiv.org/abs/2502.14731)|null|
+|**2025-02-20**|**Machine learning assisted tracking of magnetic objects using quantum diamond magnetometry**|Fernando Meneses et.al.|[2502.14683](http://arxiv.org/abs/2502.14683)|null|
+|**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
+|**2025-02-20**|**Threshold for loss of Landau damping in double-harmonic rf systems**|Leandro Intelisano et.al.|[2502.14548](http://arxiv.org/abs/2502.14548)|null|
+|**2025-02-20**|**An Entropic Metric for Measuring Calibration of Machine Learning Models**|Daniel James Sumler et.al.|[2502.14545](http://arxiv.org/abs/2502.14545)|null|
+|**2025-02-20**|**Daily Land Surface Temperature Reconstruction in Landsat Cross-Track Areas Using Deep Ensemble Learning With Uncertainty Quantification**|Shengjie Liu et.al.|[2502.14433](http://arxiv.org/abs/2502.14433)|null|
+|**2025-02-20**|**MPPI-DBaS: Safe Trajectory Optimization with Adaptive Exploration**|Fanxin Wang et.al.|[2502.14387](http://arxiv.org/abs/2502.14387)|null|
+|**2025-02-20**|**Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments**|Zhiwei Liu et.al.|[2502.14383](http://arxiv.org/abs/2502.14383)|null|
 |**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
 |**2025-02-19**|**Imaging the Photochemistry of Cyclobutanone using Ultrafast Electron Diffraction: Experimental Results**|A. E. Green et.al.|[2502.13956](http://arxiv.org/abs/2502.13956)|null|
 |**2025-02-19**|**Spatially Encoded Polaritonic Ultra-Strong Coupling in Gradient Metasurfaces with Epsilon-Near-Zero Modes**|Enrico Bau et.al.|[2502.13941](http://arxiv.org/abs/2502.13941)|null|
@@ -4306,6 +4316,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844](http://arxiv.org/abs/2502.14844)|null|
+|**2025-02-20**|**The GammaTPC Gamma-Ray Telescope Concept**|Tom Shutt et.al.|[2502.14841](http://arxiv.org/abs/2502.14841)|null|
+|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
+|**2025-02-20**|**Pandey-Upadhyay's wavelet transform and microlocal Sobolev singularities of functions**|Akira Lee et.al.|[2502.14832](http://arxiv.org/abs/2502.14832)|null|
+|**2025-02-20**|**MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems**|Maor Mizrachi et.al.|[2502.14825](http://arxiv.org/abs/2502.14825)|null|
+|**2025-02-20**|**A Survey of Model Architectures in Information Retrieval**|Zhichao Xu et.al.|[2502.14822](http://arxiv.org/abs/2502.14822)|null|
+|**2025-02-20**|**eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**|Luis Antonio Gutiérrez Guanilo et.al.|[2502.14820](http://arxiv.org/abs/2502.14820)|null|
+|**2025-02-20**|**On the role of symmetry and geometry in global quantum sensing**|Julia Boeyens et.al.|[2502.14817](http://arxiv.org/abs/2502.14817)|null|
+|**2025-02-20**|**A Survey on Text-Driven 360-Degree Panorama Generation**|Hai Wang et.al.|[2502.14799](http://arxiv.org/abs/2502.14799)|null|
+|**2025-02-20**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee et.al.|[2502.14783](http://arxiv.org/abs/2502.14783)|null|
 |**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
 |**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964](http://arxiv.org/abs/2502.13964)|null|
 |**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961](http://arxiv.org/abs/2502.13961)|null|
@@ -4625,9 +4645,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera**|Weiyi Xiong et.al.|[2502.14503](http://arxiv.org/abs/2502.14503)|null|
+|**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
+|**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
-|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[2502.13641](http://arxiv.org/abs/2502.13641)|null|
-|**2025-02-19**|**Ephemerality meets LiDAR-based Lifelong Mapping**|Hyeonjae Gil et.al.|[2502.13452](http://arxiv.org/abs/2502.13452)|null|
+|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[2502.13641](http://arxiv.org/abs/2502.13641)|**[link](https://github.com/keio-csg/slamspoof)**|
+|**2025-02-19**|**Ephemerality meets LiDAR-based Lifelong Mapping**|Hyeonjae Gil et.al.|[2502.13452](http://arxiv.org/abs/2502.13452)|**[link](https://github.com/dongjae0107/elite)**|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
 |**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
 |**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860](http://arxiv.org/abs/2502.12860)|null|
@@ -4803,9 +4826,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera**|Weiyi Xiong et.al.|[2502.14503](http://arxiv.org/abs/2502.14503)|null|
+|**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
+|**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
-|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[2502.13641](http://arxiv.org/abs/2502.13641)|null|
-|**2025-02-19**|**Ephemerality meets LiDAR-based Lifelong Mapping**|Hyeonjae Gil et.al.|[2502.13452](http://arxiv.org/abs/2502.13452)|null|
+|**2025-02-19**|**SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**|Rokuto Nagata et.al.|[2502.13641](http://arxiv.org/abs/2502.13641)|**[link](https://github.com/keio-csg/slamspoof)**|
+|**2025-02-19**|**Ephemerality meets LiDAR-based Lifelong Mapping**|Hyeonjae Gil et.al.|[2502.13452](http://arxiv.org/abs/2502.13452)|**[link](https://github.com/dongjae0107/elite)**|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
 |**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
 |**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860](http://arxiv.org/abs/2502.12860)|null|
