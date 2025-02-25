@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
+|**2025-02-21**|**Continual Person Identification using Footstep-Induced Floor Vibrations on Heterogeneous Floor Structures**|Yiwen Dong et.al.|[2502.15632](http://arxiv.org/abs/2502.15632)|null|
+|**2025-02-21**|**The Evolution of Size and Merger Fraction of Submillimeter Galaxies across $1 < z \lesssim 6$ as Observed by JWST**|Jian Ren et.al.|[2502.15569](http://arxiv.org/abs/2502.15569)|null|
+|**2025-02-21**|**Unveiling the origin of fast radio bursts by modeling the stellar mass and star formation distributions of their host galaxies**|Nick Loudas et.al.|[2502.15566](http://arxiv.org/abs/2502.15566)|null|
+|**2025-02-21**|**M2LADS Demo: A System for Generating Multimodal Learning Analytics Dashboards**|Alvaro Becerra et.al.|[2502.15363](http://arxiv.org/abs/2502.15363)|null|
+|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342](http://arxiv.org/abs/2502.15342)|null|
+|**2025-02-21**|**A Data-Driven Real-Time Optimal Power Flow Algorithm Using Local Feedback**|Heng Liang et.al.|[2502.15306](http://arxiv.org/abs/2502.15306)|null|
+|**2025-02-21**|**Leader-Follower Formation Tracking Control of Quadrotor UAVs Using Bearing Measurements**|S. Doodeman et.al.|[2502.15303](http://arxiv.org/abs/2502.15303)|null|
+|**2025-02-21**|**On the (In)Security of Non-resettable Device Identifiers in Custom Android Systems**|Zikan Dong et.al.|[2502.15270](http://arxiv.org/abs/2502.15270)|null|
+|**2025-02-21**|**An ocean front detection and tracking algorithm**|Yishuo Wang et.al.|[2502.15250](http://arxiv.org/abs/2502.15250)|null|
 |**2025-02-20**|**eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**|Luis Antonio Gutiérrez Guanilo et.al.|[2502.14820](http://arxiv.org/abs/2502.14820)|null|
 |**2025-02-20**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee et.al.|[2502.14783](http://arxiv.org/abs/2502.14783)|null|
 |**2025-02-20**|**Beyond Performance Scores: Directed Functional Connectivity as a Brain-Based Biomarker for Motor Skill Learning and Retention**|Anil Kamat et.al.|[2502.14731](http://arxiv.org/abs/2502.14731)|null|
@@ -4316,6 +4326,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**On-chip multi-timescale spatiotemporal optical synchronization**|Lida Xu et.al.|[2502.15671](http://arxiv.org/abs/2502.15671)|null|
+|**2025-02-21**|**Mantis: Lightweight Calibrated Foundation Model for User-Friendly Time Series Classification**|Vasilii Feofanov et.al.|[2502.15637](http://arxiv.org/abs/2502.15637)|null|
+|**2025-02-21**|**Spin- $s$ $Q$ -systems: Twist and Open Boundaries**|Yi-Jun He et.al.|[2502.15636](http://arxiv.org/abs/2502.15636)|null|
+|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
+|**2025-02-21**|**Continual Person Identification using Footstep-Induced Floor Vibrations on Heterogeneous Floor Structures**|Yiwen Dong et.al.|[2502.15632](http://arxiv.org/abs/2502.15632)|null|
+|**2025-02-21**|**MemoryPods: Enhancing Asynchronous Communication in Extended Reality**|Akos Nagy et.al.|[2502.15622](http://arxiv.org/abs/2502.15622)|null|
+|**2025-02-21**|**Extraction multi-étiquettes de relations en utilisant des couches de Transformer**|Ngoc Luyen Le et.al.|[2502.15619](http://arxiv.org/abs/2502.15619)|null|
+|**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/abs/2502.15612)|null|
+|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610](http://arxiv.org/abs/2502.15610)|null|
 |**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844](http://arxiv.org/abs/2502.14844)|null|
 |**2025-02-20**|**The GammaTPC Gamma-Ray Telescope Concept**|Tom Shutt et.al.|[2502.14841](http://arxiv.org/abs/2502.14841)|null|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
@@ -4645,6 +4665,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
+|**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
+|**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452](http://arxiv.org/abs/2502.15452)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
 |**2025-02-20**|**LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera**|Weiyi Xiong et.al.|[2502.14503](http://arxiv.org/abs/2502.14503)|null|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
@@ -4826,6 +4851,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
+|**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
+|**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452](http://arxiv.org/abs/2502.15452)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
 |**2025-02-20**|**LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera**|Weiyi Xiong et.al.|[2502.14503](http://arxiv.org/abs/2502.14503)|null|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
