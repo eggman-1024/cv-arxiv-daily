@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|null|
+|**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
+|**2025-03-27**|**Numerical Analysis of the Stability of Iron Dust Bunsen Flames**|Thijs Hazenberg et.al.|[2503.21658](http://arxiv.org/abs/2503.21658)|null|
+|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/abs/2503.21614)|null|
+|**2025-03-27**|**Dataset and Analysis of Long-Term Skill Acquisition in Robot-Assisted Minimally Invasive Surgery**|Yarden Sharon et.al.|[2503.21591](http://arxiv.org/abs/2503.21591)|null|
+|**2025-03-27**|**Real-time Tracking System with partially coupled sources**|Saeid Sadeghi Vilni et.al.|[2503.21552](http://arxiv.org/abs/2503.21552)|null|
+|**2025-03-27**|**Multiscale geometrical Lagrangian statistics of heavy impurities in drift-wave turbulence**|Zetao Lin et.al.|[2503.21532](http://arxiv.org/abs/2503.21532)|null|
+|**2025-03-27**|**Distributed Forgetting-factor Regret-based Online Optimization over Undirected Connected Networks**|Lipo Mo et.al.|[2503.21498](http://arxiv.org/abs/2503.21498)|null|
+|**2025-03-27**|**Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing**|Siavash Mahmoudi et.al.|[2503.21491](http://arxiv.org/abs/2503.21491)|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904](http://arxiv.org/abs/2503.19904)|null|
 |**2025-03-25**|**A proposal for an incident regime that tracks and counters threats to national security posed by AI systems**|Alejandro Ortega et.al.|[2503.19887](http://arxiv.org/abs/2503.19887)|null|
 |**2025-03-25**|**Capacity-Constrained Online Learning with Delays: Scheduling Frameworks and Regret Trade-offs**|Alexander Ryabchenko et.al.|[2503.19856](http://arxiv.org/abs/2503.19856)|null|
@@ -4456,6 +4466,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|null|
+|**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
+|**2025-03-27**|**Identification and estimation of treatment effects in a linear factor model with fixed number of time periods**|Koki Fusejima et.al.|[2503.21763](http://arxiv.org/abs/2503.21763)|null|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
+|**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751](http://arxiv.org/abs/2503.21751)|null|
+|**2025-03-27**|**SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling**|Xianglong He et.al.|[2503.21732](http://arxiv.org/abs/2503.21732)|null|
+|**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723](http://arxiv.org/abs/2503.21723)|null|
+|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708](http://arxiv.org/abs/2503.21708)|null|
+|**2025-03-27**|**Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**|Yoav Rotman et.al.|[2503.21702](http://arxiv.org/abs/2503.21702)|null|
+|**2025-03-27**|**Solvability of N-level Systems under the Rotating Wave Approximation (RWA) and Dipole Selection Rules**|Phoenix M. M. Paing et.al.|[2503.21689](http://arxiv.org/abs/2503.21689)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904](http://arxiv.org/abs/2503.19904)|null|
 |**2025-03-25**|**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**|Liang Pan et.al.|[2503.19901](http://arxiv.org/abs/2503.19901)|null|
@@ -4925,6 +4945,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Lidar-only Odometry based on Multiple Scan-to-Scan Alignments over a Moving Window**|Aaron Kurda et.al.|[2503.21293](http://arxiv.org/abs/2503.21293)|null|
+|**2025-03-27**|**ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate**|Ming Yan et.al.|[2503.21268](http://arxiv.org/abs/2503.21268)|null|
+|**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
+|**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099](http://arxiv.org/abs/2503.21099)|null|
+|**2025-03-27**|**HSLiNets: Evaluating Band Ordering Strategies in Hyperspectral and LiDAR Fusion**|Judy X Yang et.al.|[2503.21072](http://arxiv.org/abs/2503.21072)|null|
+|**2025-03-26**|**Near-visible low power tuning of nematic-liquid crystal integrated silicon nitride ring resonator**|Jayita Dutta et.al.|[2503.21012](http://arxiv.org/abs/2503.21012)|null|
+|**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682](http://arxiv.org/abs/2503.20682)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|**[link](https://github.com/sanjay-810/savid)**|
+|**2025-03-26**|**An Algorithm for Illuminating $n$ Nonoverlapping Circular Discs' Boundaries on the Plane with Application to Tree Stem Illumination Problem**|Phapaengmuang Sukkasem et.al.|[2503.20440](http://arxiv.org/abs/2503.20440)|null|
+|**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
 |**2025-03-25**|**Perception-Enhanced Multitask Multimodal Semantic Communication for UAV-Assisted Integrated Sensing and Communication System**|Ziji Guo et.al.|[2503.19594](http://arxiv.org/abs/2503.19594)|null|
@@ -5215,6 +5245,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Lidar-only Odometry based on Multiple Scan-to-Scan Alignments over a Moving Window**|Aaron Kurda et.al.|[2503.21293](http://arxiv.org/abs/2503.21293)|null|
+|**2025-03-27**|**ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate**|Ming Yan et.al.|[2503.21268](http://arxiv.org/abs/2503.21268)|null|
+|**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
+|**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099](http://arxiv.org/abs/2503.21099)|null|
+|**2025-03-27**|**HSLiNets: Evaluating Band Ordering Strategies in Hyperspectral and LiDAR Fusion**|Judy X Yang et.al.|[2503.21072](http://arxiv.org/abs/2503.21072)|null|
+|**2025-03-26**|**Near-visible low power tuning of nematic-liquid crystal integrated silicon nitride ring resonator**|Jayita Dutta et.al.|[2503.21012](http://arxiv.org/abs/2503.21012)|null|
+|**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682](http://arxiv.org/abs/2503.20682)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|**[link](https://github.com/sanjay-810/savid)**|
+|**2025-03-26**|**An Algorithm for Illuminating $n$ Nonoverlapping Circular Discs' Boundaries on the Plane with Application to Tree Stem Illumination Problem**|Phapaengmuang Sukkasem et.al.|[2503.20440](http://arxiv.org/abs/2503.20440)|null|
+|**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
 |**2025-03-25**|**Perception-Enhanced Multitask Multimodal Semantic Communication for UAV-Assisted Integrated Sensing and Communication System**|Ziji Guo et.al.|[2503.19594](http://arxiv.org/abs/2503.19594)|null|
